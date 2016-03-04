@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Onomato]]></title>
         <description><![CDATA[Onomato]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/onomato/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 19:01:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 19:07:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/onomato/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[DVD Universo Z - Temporada 1]]></title>
+            <description><![CDATA[<article><h1>DVD Universo Z - Temporada 1</h1><p>TABY:O que estamos pesquisando hoje, Zi?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79e789cf947ed9a5207357ac29722caf90df6a1a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/onomato/dvd-universo-z-temporada-1/index.html</link>
+            <guid isPermaLink="false">ab44ab1f-7980-4a0a-adff-3863c4565ecc</guid>
+            <pubDate>Fri, 04 Mar 2016 19:07:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Temos um logo!]]></title>
             <description><![CDATA[<article><h1>Temos um logo!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce6cc04cf2c0a2fc15ee67d9aa2c2bf3106fbfa3.jpg"></article>]]></description>
-            <link>undefinedtemos-um-logo/index.html</link>
+            <link>https://thegrid.ai/onomato/temos-um-logo/index.html</link>
             <guid isPermaLink="false">26affcf7-7e35-4448-90a4-99c36a0283e1</guid>
             <pubDate>Fri, 04 Mar 2016 19:01:41 GMT</pubDate>
         </item>
