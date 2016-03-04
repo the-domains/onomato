@@ -1,7 +1,7 @@
 name: Onomato
 favicon: null
-layout_spectrum: 0.9429653473198414
-typography_spectrum: 0.7687507353257388
+layout_spectrum: 1
+typography_spectrum: 0.5454
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.4086127826012671
+    - '#474749'
+    - '#ffffff'
+    - '#7f8184'
+    - '#cfd0d3'
+    - '#000000'
+  brandStrength: 0.4375
   lightness: 0.5594646013341844
   saturation: 0.19048194657079875
   rhythmicContrast: 0.7141469952184707
