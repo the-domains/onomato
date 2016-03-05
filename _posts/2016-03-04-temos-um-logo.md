@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T21:28:25.464Z'
-dateModified: '2016-03-05T21:28:13.942Z'
+datePublished: '2016-03-05T21:33:23.917Z'
+dateModified: '2016-03-05T21:31:25.093Z'
 title: 'Habemus logos!'
 author: []
 sourcePath: _posts/2016-03-04-temos-um-logo.md
