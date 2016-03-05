@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'A Série “Universo Z” já está disponível em DVD!'
-datePublished: '2016-03-05T21:42:19.518Z'
-dateModified: '2016-03-05T21:42:16.762Z'
+datePublished: '2016-03-05T21:54:28.363Z'
+dateModified: '2016-03-05T21:54:26.228Z'
 title: DVD Universo Z - Temporada 1
 author: []
 sourcePath: _posts/2016-03-04-dvd-universo-z-temporada-1.md
