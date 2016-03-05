@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T21:22:24.977Z'
-dateModified: '2016-03-05T21:22:22.438Z'
+datePublished: '2016-03-05T21:28:04.651Z'
+dateModified: '2016-03-05T21:26:37.089Z'
 title: 'Habemus logos!'
 author: []
 sourcePath: _posts/2016-03-04-temos-um-logo.md
@@ -22,4 +22,4 @@ url: temos-um-logo/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c23b3976-9ecb-45ba-84e7-533cd3e49b4c.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c3ccb2804f833c510faac36fdd52e3f0576f337.png)
