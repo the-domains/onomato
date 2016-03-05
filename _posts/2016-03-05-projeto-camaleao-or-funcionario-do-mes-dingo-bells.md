@@ -1,17 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=aqr9zvs69Mc'
+inLanguage: pt
+starred: false
+keywords: []
+description: 'Segunda session do Projeto Camaleão, uma série idealizada pela produtora de som Onomato e Area 51, espaço multicultural de Porto Alegre. Convidamos artistas para criar versões inéditas de canções, utilizando instrumentos (e não instrumentos) totalmente diferentes dos originais. Como um camaleão, o som se transforma: mesma canção, cores diferentes.'
+datePublished: '2016-03-05T23:11:18.736Z'
+dateModified: '2016-03-05T23:11:15.960Z'
 author:
   - name: Projeto Camaleão
     url: 'https://www.youtube.com/channel/UCdvT3mu6bHV-PriX5dZdl3g'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'Segunda session do Projeto Camaleão, uma série idealizada pela produtora de som Onomato e Area 51, espaço multicultural de Porto Alegre. Convidamos artistas para criar versões inéditas de canções, utilizando instrumentos (e não instrumentos) totalmente diferentes dos originais. Como um camaleão, o som se transforma: mesma canção, cores diferentes.'
-inLanguage: pt
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=aqr9zvs69Mc&feature=applinks'
     type: ios
@@ -49,15 +51,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=aqr9zvs69Mc'
 title: 'Projeto Camaleão | "Funcionário do Mês" (Dingo Bells)'
-datePublished: '2016-03-05T22:56:24.331Z'
-dateModified: '2016-03-05T22:54:35.062Z'
 sourcePath: _posts/2016-03-05-projeto-camaleao-or-funcionario-do-mes-dingo-bells.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
