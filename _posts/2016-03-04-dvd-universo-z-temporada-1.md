@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A Série “Universo Z” já está disponível em DVD!'
-datePublished: '2016-03-05T21:22:35.911Z'
-dateModified: '2016-03-04T23:43:58.239Z'
+datePublished: '2016-03-05T21:30:04.710Z'
+dateModified: '2016-03-05T21:30:04.145Z'
 title: DVD Universo Z - Temporada 1
 author: []
 sourcePath: _posts/2016-03-04-dvd-universo-z-temporada-1.md
@@ -22,7 +22,7 @@ url: dvd-universo-z-temporada-1/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a946fd93-c8db-4b3e-b05e-b61118a4bfe4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/32e290ccae6413026eb137a4a0ddbff78cc930b4.jpg)
 
 **TABY**:_O que estamos pesquisando hoje, Zi?_
 
@@ -55,7 +55,7 @@ Os volumes 1 e 2 da Série "**Universo Z**" já estão disponíveis nas Lojas:
 Reserve já o seu, vai ser muito divertido!
 
 (c) Atama Filmes & Super8 Produções  
-Distribuição[Europa Fimes][8]
+Distribuição [Europa Fimes][8]
 
 [0]: http://www.americanas.com.br/produto/11753322/dvd-universo-z-1-temporada-vol.-1 "Americanas"
 [1]: http://www.apoderosa.com.br/dept.aspx?page=4&iddept=191&sort=1 "A Poderosa"
