@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'A Série “Universo Z” já está disponível em DVD!'
-datePublished: '2016-03-04T19:35:53.985Z'
-dateModified: '2016-03-04T19:35:52.517Z'
+datePublished: '2016-03-05T21:22:35.911Z'
+dateModified: '2016-03-04T23:43:58.239Z'
 title: DVD Universo Z - Temporada 1
 author: []
 sourcePath: _posts/2016-03-04-dvd-universo-z-temporada-1.md
@@ -22,6 +22,8 @@ url: dvd-universo-z-temporada-1/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a946fd93-c8db-4b3e-b05e-b61118a4bfe4.jpg)
+
 **TABY**:_O que estamos pesquisando hoje, Zi?_
 
 **ZI**:_Estamos pesquisando sobre DVD, Taby!_
@@ -38,7 +40,6 @@ _para reservar um para você e outro para o Seu P.U.!_
 vamos ver quais são as lojas do Brasil que já tem o nosso DVD._
 
 __
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a946fd93-c8db-4b3e-b05e-b61118a4bfe4.jpg)
 
 Os volumes 1 e 2 da Série "**Universo Z**" já estão disponíveis nas Lojas:
 
